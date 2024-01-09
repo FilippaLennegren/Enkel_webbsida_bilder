@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(179, 208, 211);
+}
+
+img {
+    max-width: 80%;
+    border-radius: 10%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 10%;
+}
+
+.bilder {
+    text-align: center;
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 300%;
+}
