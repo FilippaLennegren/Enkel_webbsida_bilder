@@ -1,0 +1,30 @@
+<h1>Beach</h1>
+    <div class="bilder">
+        <div class="batar"> <img src="batar-beach.png" alt="batar"></div>
+        <div class="hav"> <img src="hav-beach.png" alt="hav"></div>
+        <div class="himmel"> <img src="himmel-beach.png" alt="himmel"></div>
+        <div class="palmer"> <img src="palmer-beach.png" alt="palmer"></div>
+    </div>
+
+
+    body {
+        background-color: rgb(179, 208, 211);
+    }
+    
+    img {
+        max-width: 80%;
+        border-radius: 10%;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        margin: 10%;
+    }
+    
+    .bilder {
+        text-align: center;
+    
+        
+    }
+    
+    h1 {
+        text-align: center;
+        font-size: 300%;
+    }
